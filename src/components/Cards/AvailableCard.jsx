@@ -41,7 +41,7 @@ export default function MediaCard() {
             Posted On
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            Project Description Project Description Project Description Project
+            Project Description Project Description Projects Description Project
             Description Project Description Project Description
           </Typography>
         </CardContent>
